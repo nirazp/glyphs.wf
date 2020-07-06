@@ -18,5 +18,7 @@ mixer:
 ccid: 206
 alt-names: 
 ---
-* Drops codes in Youtube videos
-* Redeem for 3000 of his Streamlabs currency
+* member on Youtube atleast Tier 2
+* subscribe on Twitch
+* randomly giveaway in stream sometime
+* redeem 30k channel point on Twitch (watch 50-60hrs)
